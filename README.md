@@ -3,5 +3,5 @@
 
 ## About this cool frog
 
-<em>My mission: learining how to code before the sun explode</em
+<em>My mission: learning how to code before the sun explodes </em>
 
