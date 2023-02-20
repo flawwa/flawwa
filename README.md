@@ -1,7 +1,5 @@
-.img {
-float: left;
-}
 
+<img align="right" src="https://github.com/flawwa/flawwa/blob/main/beloved.gif">
 
-<img src="https://github.com/flawwa/flawwa/blob/main/beloved.gif">
+<br><br><br>
 
