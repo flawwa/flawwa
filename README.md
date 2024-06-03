@@ -29,6 +29,6 @@
 
 ## Tools
 - ![Eclipse Icon](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse
-- ![Maven Icon](https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000) Maven
+- ![Maven Icon](https://img.icons8.com/?size=50&id=t5FJr3NzrPSm&format=png&color=000000) Maven
 - ![Git Icon](https://img.icons8.com/color/48/000000/git.png) Git
 - ![Graph DB Icon](https://img.icons8.com/color/48/000000/graph.png) Graph DB
