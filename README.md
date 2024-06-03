@@ -16,7 +16,7 @@
 - ![Android Icon](https://img.icons8.com/color/48/000000/android-os.png) Android (Android Studio)
 
 ## Frameworks
-- ![JavaFX Icon](https://img.icons8.com/color/48/000000/javafx.png) JavaFX
+- ![JavaFX Icon](https://img.icons8.com/?size=50&id=BZz399uT6eo0&format=png&color=000000) JavaFX
 - ![Hibernate Icon](https://img.icons8.com/color/48/000000/hibernate.png) Hibernate
 
 ## Languages
@@ -25,7 +25,7 @@
 - ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png) Python
 
 ## ERP
-- ![ERP Icon](https://img.icons8.com/?size=50&id=92291&format=png&color=000000) ERP
+- ![ERP Icon](https://img.icons8.com/?size=40&id=92291&format=png&color=000000) ERP
 
 ## Tools
 - ![Eclipse Icon](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse
