@@ -1,7 +1,4 @@
 # About Me
-
-![Beloved GIF](https://github.com/flawwa/flawwa/blob/main/beloved.gif)
-
 *My mission: learning how to code before the sun explodes*
 
 ## Databases
