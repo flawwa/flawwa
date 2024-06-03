@@ -10,7 +10,7 @@
 - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
 - ![PHP Icon](https://img.icons8.com/officel/40/000000/php-logo.png) PHP
 - ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![XML Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-xml-mobile-app-development-flaticons-lineal-color-flat-icons-2.png) XML
+- ![XML Icon](https://img.icons8.com/?size=50&id=56039&format=png&color=000000) XML
 
 ## Mobile
 - ![Android Icon](https://img.icons8.com/color/48/000000/android-os.png) Android (Android Studio)
