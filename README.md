@@ -25,7 +25,7 @@
 - ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png) Python
 
 ## ERP
-- ![ERP Icon](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-erp-computer-system-flaticons-lineal-color-flat-icons.png) ERP
+- ![ERP Icon](https://img.icons8.com/?size=50&id=92291&format=png&color=000000) ERP
 
 ## Tools
 - ![Eclipse Icon](https://img.icons8.com/color/48/000000/eclipse.png) Eclipse
